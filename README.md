@@ -24,7 +24,7 @@ Practical, copy-ready patterns for two of the most common canvas-app problems I 
 
 **Result:** Complete search results restored for **300 users**.
 
-➡️ [`patterns/delegable-search.fx`](patterns/delegable-search.fx) · [`docs/delegation-cheatsheet.md`](docs/delegation-cheatsheet.md)
+➡️ [`patterns/delegable-search.fx`](delegable-search.fx) · [`docs/delegation-cheatsheet.md`](delegation-cheatsheet.md)
 
 ## ⚡ Case 2 — 12-second app start
 
@@ -41,7 +41,7 @@ Practical, copy-ready patterns for two of the most common canvas-app problems I 
 
 **Result:** Load time reduced from **~12s to ~4s** (measured with Power Apps *Monitor*).
 
-➡️ [`patterns/onstart-optimization.fx`](patterns/onstart-optimization.fx)
+➡️ [`patterns/onstart-optimization.fx`](onstart-optimization.fx)
 
 ## 📁 Structure
 
